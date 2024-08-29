@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCodeCampAcademy", "FreeCodeCampAcademy.csproj", "{F2945428-825E-4485-9387-CAD01D656CBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCodeCampAcademy.APIService", "..\FreeCodeCampAcademy.APIService\FreeCodeCampAcademy.APIService.csproj", "{A7500BAD-54D5-46E8-BD1D-D9784A67803E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCodeCampAcademy.DTO", "..\FreeCodeCampAcademy.DTO\FreeCodeCampAcademy.DTO.csproj", "{A84F0158-4FAC-43CD-946E-68AFF3D55401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F2945428-825E-4485-9387-CAD01D656CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2945428-825E-4485-9387-CAD01D656CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2945428-825E-4485-9387-CAD01D656CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7500BAD-54D5-46E8-BD1D-D9784A67803E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7500BAD-54D5-46E8-BD1D-D9784A67803E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7500BAD-54D5-46E8-BD1D-D9784A67803E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7500BAD-54D5-46E8-BD1D-D9784A67803E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84F0158-4FAC-43CD-946E-68AFF3D55401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84F0158-4FAC-43CD-946E-68AFF3D55401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84F0158-4FAC-43CD-946E-68AFF3D55401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84F0158-4FAC-43CD-946E-68AFF3D55401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
