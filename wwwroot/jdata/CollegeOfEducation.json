@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "name": "A.D. Rufa i College for Islamic and Legal Studies"
+  },
+  {
+    "id": 2,
+    "name": "Abdullahi Maikano College of Education, Wase"
+  },
+  {
+    "id": 3,
+    "name": "Abubakar Garba Zagada- Zagada College of Education, Bajoga"
+  },
+  {
+    "id": 4,
+    "name": "Abubakar Tatari Polytechnic"
+  },
+  {
+    "id": 5,
+    "name": "Adamu Augie College of Education, Argungu"
+  },
+  {
+    "id": 6,
+    "name": "Adamu Garkuwa COE, Toro"
+  },
+  {
+    "id": 7,
+    "name": "Adeniran Ogunsanya College of Education, Otto/Ijanikin"
+  },
+  {
+    "id": 8,
+    "name": "Adesina College of Education, Share, Kwara State"
+  },
+  {
+    "id": 9,
+    "name": "Adeyemi College of Education, Ondo"
+  },
+  {
+    "id": 10,
+    "name": "AFRICAN CHURCH COLLEGE OF EDUCATION"
+  },
+  {
+    "id": 11,
+    "name": "African Thinkers Community of Inquiry College of Education, Enugu"
+  },
+  {
+    "id": 12,
+    "name": "Akwa Ibom State College of Education, Afahansit"
+  },
+  {
+    "id": 13,
+    "name": "AL HIKMA College of Education, ANKPA"
+  },
+  {
+    "id": 14,
+    "name": "Al-Ibadan COE"
+  },
+  {
+    "id": 15,
+    "name": "Al-Iman College of Education"
+  },
+  {
+    "id": 16,
+    "name": "Alvan Ikoku College of Education, Owerri"
+  },
+  {
+    "id": 17,
+    "name": "Ameer Shehu Idris College of Advanced Studies, Zaria"
+  },
+  {
+    "id": 18,
+    "name": "Aminu Kano College of Education"
+  },
+  {
+    "id": 19,
+    "name": "Aminu Kano College of Islamic and Legal Studies"
+  },
+  {
+    "id": 20,
+    "name": "Aminu Sale College of Education, Azare"
+  },
+  {
+    "id": 21,
+    "name": "Angel Crown COE"
+  },
+  {
+    "id": 22,
+    "name": "Annur College of Education, Kano"
+  },
+  {
+    "id": 23,
+    "name": "Ansar-Ud-Deen College of Education, Isolo"
+  },
+  {
+    "id": 24,
+    "name": "Apa COE, Aido"
+  },
+  {
+    "id": 25,
+    "name": "Assanusiya College of Education, Odeomu, Osun"
+  },
+  {
+    "id": 26,
+    "name": "COE, Ero, Akure"
+  },
+  {
+    "id": 27,
+    "name": "Awori District COE"
+  },
+  {
+    "id": 28,
+    "name": "Bauchi Institute for Arabic and Islamic Studies"
+  },
+  {
+    "id": 29,
+    "name": "Bayo Tijani College of Education, Lagos"
+  },
+  {
+    "id": 30,
+    "name": "Best Legacy COE, Ogbomoso"
+  },
+  {
+    "id": 31,
+    "name": "BETHEL College of Education, IJARE, ONDO"
+  },
+  {
+    "id": 32,
+    "name": "Biga College of Education"
+  },
+  {
+    "id": 33,
+    "name": "Bilyaminu Othman COE, Dass"
+  },
+  {
+    "id": 34,
+    "name": "Bogoro College of Education"
+  },
+  {
+    "id": 35,
+    "name": "Calvin Foundation COE"
+  },
+  {
+    "id": 36,
+    "name": "City College of Education, Mararaba"
+  },
+  {
+    "id": 37,
+    "name": "Climax College of Education, Bauchi"
+  },
+  {
+    "id": 38,
+    "name": "COE, Moro, Ife-North"
+  },
+  {
+    "id": 39,
+    "name": "College of Education (Technical), Lafiagi"
+  },
+  {
+    "id": 40,
+    "name": "College of Education and Legal Studies"
+  },
+  {
+    "id": 41,
+    "name": "College of Education Kura"
+  },
+  {
+    "id": 42,
+    "name": "College of Education Oro"
+  },
+  {
+    "id": 43,
+    "name": "College of Education, Arochukwu, Abia"
+  },
+  {
+    "id": 44,
+    "name": "College of Education, Billiri"
+  },
+  {
+    "id": 45,
+    "name": "College of Education, Darazo"
+  },
+  {
+    "id": 46,
+    "name": "College of Education, Ekiadolor-Benin"
+  },
+  {
+    "id": 47,
+    "name": "College of Education, Gashua, Damaturu"
+  },
+  {
+    "id": 48,
+    "name": "College of Education, Gindiri"
+  },
+  {
+    "id": 49,
+    "name": "College of Education, Hong"
+  },
+  {
+    "id": 50,
+    "name": "College of Education, Ikere-Ekiti"
+  },
+  {
+    "id": 51,
+    "name": "College of Education, Ila-Orangun, Osun"
+  },
+  {
+    "id": 52,
+    "name": "College of Education, Ilemona"
+  },
+  {
+    "id": 53,
+    "name": "College of Education, katsina-Ala"
+  },
+  {
+    "id": 54,
+    "name": "College of Education, Lanlate, Oyo State"
+  },
+  {
+    "id": 55,
+    "name": "College of Education, Oju"
+  },
+  {
+    "id": 56,
+    "name": "College of Education, Oro"
+  },
+  {
+    "id": 57,
+    "name": "College of Education, Waka BIU"
+  },
+  {
+    "id": 58,
+    "name": "College of Education, Warri"
+  },
+  {
+    "id": 59,
+    "name": "College of Education, Zing"
+  },
+  {
+    "id": 60,
+    "name": "College of Sharia and Arabic Studies"
+  },
+  {
+    "id": 61,
+    "name": "Corner Stone College of Education, Ikeja"
+  },
+  {
+    "id": 62,
+    "name": "Corona College of Education, Lekki"
+  },
+  {
+    "id": 63,
+    "name": "Covenant College of Education (CCOE)"
+  },
+  {
+    "id": 64,
+    "name": "CRESTFIELD COLLEGE OF EDUCATION"
+  },
+  {
+    "id": 65,
+    "name": "Cross River State College of Education, Akampa"
+  },
+  {
+    "id": 66,
+    "name": "Dala College of Education, Kano"
+  },
+  {
+    "id": 67,
+    "name": "Danyaya College of Education, Ningi"
+  },
+  {
+    "id": 68,
+    "name": "Delar College of Education"
+  },
+  {
+    "id": 69,
+    "name": "Delta State College of Education, Agbor"
+  },
+  {
+    "id": 70,
+    "name": "Delta State College of Physical Education, Mosogar"
+  },
+  {
+    "id": 71,
+    "name": "DIAMOND College of Education, ABA"
+  },
+  {
+    "id": 72,
+    "name": "Ebenezer College of Education, Amangwu"
+  },
+  {
+    "id": 73,
+    "name": "Ebonyi State College of Education, (T) Ikwo"
+  },
+  {
+    "id": 74,
+    "name": "ECWA College of Education, Igbaja"
+  },
+  {
+    "id": 75,
+    "name": "ECWA College of Education, Jos (ECOEJ)"
+  },
+  {
+    "id": 76,
+    "name": "Edo State College of Education, Igueben"
+  },
+  {
+    "id": 77,
+    "name": "EEICOE College of Education, Otukpo"
+  },
+  {
+    "id": 78,
+    "name": "Elder Oyama Memorial COE, Ofat"
+  },
+  {
+    "id": 79,
+    "name": "Elizabeth Memorial College of Education, Nsukka"
+  },
+  {
+    "id": 80,
+    "name": "Emamo College of Education"
+  },
+  {
+    "id": 81,
+    "name": "Emmanuel Alayande College of Education (EACOED), Oyo"
+  },
+  {
+    "id": 82,
+    "name": "Enugu State College of Education (T), Enugu"
+  },
+  {
+    "id": 83,
+    "name": "FCT College of Education, Zuba"
+  },
+  {
+    "id": 84,
+    "name": "Federal College of Education (Special), Oyo"
+  },
+  {
+    "id": 85,
+    "name": "Federal College of Education (T), ISU, Ebonyi State"
+  },
+  {
+    "id": 86,
+    "name": "Federal College of Education (T), Umunze"
+  },
+  {
+    "id": 87,
+    "name": "Federal College of Education (Tech), Potiskum"
+  },
+  {
+    "id": 88,
+    "name": "Federal College of Education (Technical), Akoka"
+  },
+  {
+    "id": 89,
+    "name": "Federal College of Education (Technical), Asaba"
+  },
+  {
+    "id": 90,
+    "name": "Federal College of Education (Technical), Bichi"
+  },
+  {
+    "id": 91,
+    "name": "Federal College of Education (Technical), Gombe"
+  },
+  {
+    "id": 92,
+    "name": "Federal College of Education (Technical), Gusau"
+  },
+  {
+    "id": 93,
+    "name": "Federal College of Education (Technical), Omoku"
+  },
+  {
+    "id": 94,
+    "name": "Federal College of Education Bauchi"
+  },
+  {
+    "id": 95,
+    "name": "Federal College of Education Sokoto"
+  },
+  {
+    "id": 96,
+    "name": "Federal College of Education, Abeokuta"
+  },
+  {
+    "id": 97,
+    "name": "Federal College of Education, Edo"
+  },
+  {
+    "id": 98,
+    "name": "Federal College of Education, Eha-Amufu"
+  },
+  {
+    "id": 99,
+    "name": "Federal College of Education, Kano"
+  },
+  {
+    "id": 100,
+    "name": "Federal College of Education, Katsina"
+  },
+  {
+    "id": 101,
+    "name": "Federal College of Education, Kontagora"
+  },
+  {
+    "id": 102,
+    "name": "Federal College of Education, Obudu"
+  },
+  {
+    "id": 103,
+    "name": "Federal College of Education, Odugbo, Benue State"
+  },
+  {
+    "id": 104,
+    "name": "Federal College of Education, Osun"
+  },
+  {
+    "id": 105,
+    "name": "Federal College of Education, Okene"
+  },
+  {
+    "id": 106,
+    "name": "Federal College of Education, Pankshin"
+  },
+  {
+    "id": 107,
+    "name": "Federal College of Education, Yola"
+  },
+  {
+    "id": 108,
+    "name": "Federal College of Education, Zaria"
+  },
+  {
+    "id": 109,
+    "name": "FESTMED College of Education, ONDO STATE"
+  },
+  {
+    "id": 110,
+    "name": "Folrac Fortified COE, Ondo"
+  },
+  {
+    "id": 111,
+    "name": "Gand-Plus College of Education"
+  },
+  {
+    "id": 112,
+    "name": "Gboko College of Education, Benue State"
+  },
+  {
+    "id": 113,
+    "name": "Global College of Education, Bukuru"
+  },
+  {
+    "id": 114,
+    "name": "Gombe State COE, NAFADA"
+  },
+  {
+    "id": 115,
+    "name": "Good Shepperd COE"
+  },
+  {
+    "id": 116,
+    "name": "GRACE COLLEGE OF EDUCATION"
+  },
+  {
+    "id": 117,
+    "name": "Hamzainab College of Education, Oshogbo"
+  },
+  {
+    "id": 118,
+    "name": "Hassan Usman Katsina Polytechnic"
+  },
+  {
+    "id": 119,
+    "name": "Havard Wilson College of Education, Aba"
+  },
+  {
+    "id": 120,
+    "name": "Hill COE, Gwanje, Akwanga"
+  },
+  {
+    "id": 121,
+    "name": "Hope and Anchor College of Education"
+  },
+  {
+    "id": 122,
+    "name": "Ilori College of Education, Ede"
+  },
+  {
+    "id": 123,
+    "name": "Imam Hamzat COE, Ilorin"
+  },
+  {
+    "id": 124,
+    "name": "Imam Saidu COE, Funtua"
+  },
+  {
+    "id": 125,
+    "name": "Imo State College of Education, Ihitte/Uboma"
+  },
+  {
+    "id": 126,
+    "name": "Innovative College of Education, Karu"
+  },
+  {
+    "id": 127,
+    "name": "Institute of Ecumenical Education (Thinkers Corner)"
+  },
+  {
+    "id": 128,
+    "name": "Ipere COE, Agyaragu"
+  },
+  {
+    "id": 129,
+    "name": "Isa Kaita College of Education, Dutsin-Ma"
+  },
+  {
+    "id": 130,
+    "name": "Isaac Jasper Boro College of Education, Sagbama"
+  },
+  {
+    "id": 131,
+    "name": "Islamic COE, Potiskum"
+  },
+  {
+    "id": 132,
+    "name": "JIBWIS COE, Jama are"
+  },
+  {
+    "id": 133,
+    "name": "JIBWIS College of Education"
+  },
+  {
+    "id": 134,
+    "name": "JIBWIS College of Education, Gombe"
+  },
+  {
+    "id": 135,
+    "name": "JIGAWA STATE COLLEGE OF EDUCATION AND LEGAL STUDIES, RINGIM"
+  },
+  {
+    "id": 136,
+    "name": "Jigawa State College of Education, Gumel"
+  },
+  {
+    "id": 137,
+    "name": "Kaduna Polytechnics"
+  },
+  {
+    "id": 138,
+    "name": "Kaduna State College of Education, Gidan-Waya, Kafanchan"
+  },
+  {
+    "id": 139,
+    "name": "Kano State College of Education and Remedial Studies"
+  },
+  {
+    "id": 140,
+    "name": "Kano State Polytechnic"
+  },
+  {
+    "id": 141,
+    "name": "Kashim Ibrahim College of Education"
+  },
+  {
+    "id": 142,
+    "name": "Kazaure College of Education"
+  },
+  {
+    "id": 143,
+    "name": "Kingsey College of Education, Ilorin, Kwara State"
+  },
+  {
+    "id": 144,
+    "name": "Kogi East College of Education"
+  },
+  {
+    "id": 145,
+    "name": "Kogi State College of Education, Ankpa"
+  },
+  {
+    "id": 146,
+    "name": "Kogi State College of Education, Kabba"
+  },
+  {
+    "id": 147,
+    "name": "Kwararafa College of Education, Otukpo"
+  },
+  {
+    "id": 148,
+    "name": "Lessel College of Education, Gboko"
+  },
+  {
+    "id": 149,
+    "name": "Lifegate College of Education, Asa"
+  },
+  {
+    "id": 150,
+    "name": "MCF College of Education, Agbarha-Otor, Delta"
+  },
+  {
+    "id": 151,
+    "name": "Meadow Hall COE"
+  },
+  {
+    "id": 152,
+    "name": "Metro COE, Adogi-Lafia"
+  },
+  {
+    "id": 153,
+    "name": "Michael Otedola College of Prim. Education, Lagos"
+  },
+  {
+    "id": 154,
+    "name": "Moje College of Education, Erin-Ile"
+  },
+  {
+    "id": 155,
+    "name": "Muftau Olanihun College of Education, Ibadan"
+  },
+  {
+    "id": 156,
+    "name": "Muhammad Goni College of Legal and Islamic Studies (MOGOLIS)"
+  },
+  {
+    "id": 157,
+    "name": "Muhyideen College of Education, Ilorin"
+  },
+  {
+    "id": 158,
+    "name": "Murtadha COE, Olodo"
+  },
+  {
+    "id": 159,
+    "name": "Nana Aishat Memorial COE"
+  },
+  {
+    "id": 160,
+    "name": "Nasarrawa State College of Education, Akwanga"
+  },
+  {
+    "id": 161,
+    "name": "National Institute for Nigerian Languages (NINLAN)"
+  },
+  {
+    "id": 162,
+    "name": "National Teachers Institute(NTI)"
+  },
+  {
+    "id": 163,
+    "name": "Niger State College of Education, Minna"
+  },
+  {
+    "id": 164,
+    "name": "Nigerian Army School of Education (NASE), Ilorin"
+  },
+  {
+    "id": 165,
+    "name": "Nosakhare COE, Benin City"
+  },
+  {
+    "id": 166,
+    "name": "Nuhu Bamalli Polytechnic"
+  },
+  {
+    "id": 167,
+    "name": "Nwafor Orizu College of Education, Nsugbe"
+  },
+  {
+    "id": 168,
+    "name": "Olekamba College of Education"
+  },
+  {
+    "id": 169,
+    "name": "ONIT COE, Abagana"
+  },
+  {
+    "id": 170,
+    "name": "Osisa Technical College of Education, Enugu"
+  },
+  {
+    "id": 171,
+    "name": "Osun State College of Education, Ilesa"
+  },
+  {
+    "id": 172,
+    "name": "Oswald Waller COE, Shendam"
+  },
+  {
+    "id": 173,
+    "name": "PAN African College of Education, Offa"
+  },
+  {
+    "id": 174,
+    "name": "Peace College Of Education, Ankpa"
+  },
+  {
+    "id": 175,
+    "name": "Peaceland College of Education, Enugu"
+  },
+  {
+    "id": 176,
+    "name": "Peacock College of Education, Jalingo"
+  },
+  {
+    "id": 177,
+    "name": "Piaget College of Education"
+  },
+  {
+    "id": 178,
+    "name": "Plateau State Polytechnic"
+  },
+  {
+    "id": 179,
+    "name": "Ramat Polytechnic"
+  },
+  {
+    "id": 180,
+    "name": "Raphat COE"
+  },
+  {
+    "id": 181,
+    "name": "Royal City COE, Iyesi-Ota"
+  },
+  {
+    "id": 182,
+    "name": "Royal COE, Ikeja, Lagos State"
+  },
+  {
+    "id": 183,
+    "name": "Sa’adatu Rimi College of Education, Kumbotso, Kano"
+  },
+  {
+    "id": 184,
+    "name": "Sam Ale College of Education"
+  },
+  {
+    "id": 185,
+    "name": "Sarkin Yama Community College of Education"
+  },
+  {
+    "id": 186,
+    "name": "Shehu Shagari College of Education, Sokoto"
+  },
+  {
+    "id": 187,
+    "name": "Sinai College of Education & Ent. Studies, Gboko, Benue"
+  },
+  {
+    "id": 188,
+    "name": "St. Augustine College of Education"
+  },
+  {
+    "id": 189,
+    "name": "Tai Solarin College of Education, Ijebu-Ode"
+  },
+  {
+    "id": 190,
+    "name": "The College of Education, Nsukka"
+  },
+  {
+    "id": 191,
+    "name": "The Polytechnic Iree, Osun State"
+  },
+  {
+    "id": 192,
+    "name": "Top-Most COE, Ipaja-Agbado"
+  },
+  {
+    "id": 193,
+    "name": "Turath COE, Kano"
+  },
+  {
+    "id": 194,
+    "name": "Uli College of Education, Uli"
+  },
+  {
+    "id": 195,
+    "name": "Umar Bun Khatab College of Education, Tudun Nupawa, Kaduna"
+  },
+  {
+    "id": 196,
+    "name": "Umar Ibn Ibrahim El-Kanemi College of Education, Science and Technology, Bama"
+  },
+  {
+    "id": 197,
+    "name": "Unity College of Education, Aukpa Adoka, Benue"
+  },
+  {
+    "id": 198,
+    "name": "Upland College of Education, Badagry"
+  },
+  {
+    "id": 199,
+    "name": "Waziri Umaru Federal Polytechnic"
+  },
+  {
+    "id": 200,
+    "name": "Yewa Central College of Education, Ayetoro, Abeokuta"
+  },
+  {
+    "id": 201,
+    "name": "Yusuf Bala Usman College of Legal and General Studies, Daura"
+  },
+  {
+    "id": 202,
+    "name": "Zamfara State College of Education, Maru"
+  }
+
+
+]

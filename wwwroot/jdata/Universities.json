@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "name": "Abia State University"
+  },
+  {
+    "id": 2,
+    "name": "Abubakar Tafawa Balewa University"
+  },
+  {
+    "id": 3,
+    "name": "Achievers University"
+  },
+  {
+    "id": 4,
+    "name": "Adamawa State University"
+  },
+  {
+    "id": 5,
+    "name": "Adekunle Ajasin University"
+  },
+  {
+    "id": 6,
+    "name": "Adeleke University"
+  },
+  {
+    "id": 7,
+    "name": "Afe Babalola University"
+  },
+  {
+    "id": 8,
+    "name": "African University of Science and Technology"
+  },
+  {
+    "id": 9,
+    "name": "Ahmadu Bello University"
+  },
+  {
+    "id": 10,
+    "name": "Ahman Pategi University"
+  },
+  {
+    "id": 11,
+    "name": "Ajayi Crowther University"
+  },
+  {
+    "id": 12,
+    "name": "Akwa Ibom State University"
+  },
+  {
+    "id": 13,
+    "name": "Al-Ansar University"
+  },
+  {
+    "id": 14,
+    "name": "Alex Ekwueme Federal University Ndufu Alike Ikwo"
+  },
+  {
+    "id": 15,
+    "name": "Al-Hikmah University"
+  },
+  {
+    "id": 16,
+    "name": "Aliko Dangote University of Science and Technology"
+  },
+  {
+    "id": 17,
+    "name": "Al-Istiqama University"
+  },
+  {
+    "id": 18,
+    "name": "Al-Qalam University"
+  },
+  {
+    "id": 19,
+    "name": "Ambrose Alli University"
+  },
+  {
+    "id": 20,
+    "name": "American University of Nigeria"
+  },
+  {
+    "id": 21,
+    "name": "Anchor University"
+  },
+  {
+    "id": 22,
+    "name": "Arthur Jarvis University"
+  },
+  {
+    "id": 23,
+    "name": "Association of National Accountants of Nigeria University"
+  },
+  {
+    "id": 24,
+    "name": "Atiba University"
+  },
+  {
+    "id": 25,
+    "name": "Augustine University"
+  },
+  {
+    "id": 26,
+    "name": "Ave Maria University"
+  },
+  {
+    "id": 27,
+    "name": "Babcock University"
+  },
+  {
+    "id": 28,
+    "name": "Bauchi State University"
+  },
+  {
+    "id": 29,
+    "name": "Bayelsa Medical University"
+  },
+  {
+    "id": 30,
+    "name": "Bayero University"
+  },
+  {
+    "id": 31,
+    "name": "Baze University"
+  },
+  {
+    "id": 32,
+    "name": "Bells University of Technology"
+  },
+  {
+    "id": 33,
+    "name": "Benson Idahosa University"
+  },
+  {
+    "id": 34,
+    "name": "Benue State University"
+  },
+  {
+    "id": 35,
+    "name": "Borno State University"
+  },
+  {
+    "id": 36,
+    "name": "Bowen University"
+  },
+  {
+    "id": 37,
+    "name": "Bukar Abba Ibrahim University"
+  },
+  {
+    "id": 38,
+    "name": "Caleb University"
+  },
+  {
+    "id": 39,
+    "name": "Capital City University of Nigeria"
+  },
+  {
+    "id": 40,
+    "name": "Caritas University"
+  },
+  {
+    "id": 41,
+    "name": "CETEP City University"
+  },
+  {
+    "id": 42,
+    "name": "Chrisland University"
+  },
+  {
+    "id": 43,
+    "name": "Christopher University"
+  },
+  {
+    "id": 44,
+    "name": "Chukwuemeka Odumegwu Ojukwu University"
+  },
+  {
+    "id": 45,
+    "name": "Claretian University"
+  },
+  {
+    "id": 46,
+    "name": "Clifford University"
+  },
+  {
+    "id": 47,
+    "name": "Coal City University"
+  },
+  {
+    "id": 48,
+    "name": "Covenant University"
+  },
+  {
+    "id": 49,
+    "name": "Crawford University"
+  },
+  {
+    "id": 50,
+    "name": "Crescent University"
+  },
+  {
+    "id": 51,
+    "name": "Delta State University of Science and Technology, Ozoro"
+  },
+  {
+    "id": 52,
+    "name": "Delta State University, Abraka"
+  },
+  {
+    "id": 53,
+    "name": "Dennis Osadebe University, Asaba"
+  },
+  {
+    "id": 54,
+    "name": "Dominican University"
+  },
+  {
+    "id": 55,
+    "name": "Dominion University"
+  },
+  {
+    "id": 56,
+    "name": "Ebonyi State University"
+  },
+  {
+    "id": 57,
+    "name": "ECWA Bingham University"
+  },
+  {
+    "id": 58,
+    "name": "Edo State University"
+  },
+  {
+    "id": 59,
+    "name": "Edusoko University"
+  },
+  {
+    "id": 60,
+    "name": "Edwin Clark University"
+  },
+  {
+    "id": 61,
+    "name": "Ekiti State University"
+  },
+  {
+    "id": 62,
+    "name": "Eko University of Medical and Health Sciences"
+  },
+  {
+    "id": 63,
+    "name": "Elizade University"
+  },
+  {
+    "id": 64,
+    "name": "Enugu State University of Science and Technology"
+  },
+  {
+    "id": 65,
+    "name": "Evangel University, Akaeze"
+  },
+  {
+    "id": 66,
+    "name": "Federal University Birnin Kebbi"
+  },
+  {
+    "id": 67,
+    "name": "Federal University Dutse"
+  },
+  {
+    "id": 68,
+    "name": "Federal University Dutsin-Ma"
+  },
+  {
+    "id": 69,
+    "name": "Federal University Gashua"
+  },
+  {
+    "id": 70,
+    "name": "Federal University Gusau"
+  },
+  {
+    "id": 71,
+    "name": "Federal University Kashere"
+  },
+  {
+    "id": 72,
+    "name": "Federal University Lokoja"
+  },
+  {
+    "id": 73,
+    "name": "Federal University of Agriculture, Abeokuta"
+  },
+  {
+    "id": 74,
+    "name": "Federal University of Lafia"
+  },
+  {
+    "id": 75,
+    "name": "Federal University of Petroleum Resources Effurun"
+  },
+  {
+    "id": 76,
+    "name": "Federal University of Technology Akure"
+  },
+  {
+    "id": 77,
+    "name": "Federal University of Technology Ikot Abasi"
+  },
+  {
+    "id": 78,
+    "name": "Federal University of Technology Minna"
+  },
+  {
+    "id": 79,
+    "name": "Federal University of Technology Owerri"
+  },
+  {
+    "id": 80,
+    "name": "Federal University Otuoke"
+  },
+  {
+    "id": 81,
+    "name": "Federal University Oye-Ekiti"
+  },
+  {
+    "id": 82,
+    "name": "Federal University Wukari"
+  },
+  {
+    "id": 83,
+    "name": "Fountain University, Osogbo"
+  },
+  {
+    "id": 84,
+    "name": "Godfrey Okoye University"
+  },
+  {
+    "id": 85,
+    "name": "Gombe State University"
+  },
+  {
+    "id": 86,
+    "name": "Gombe State University of Science and Technology"
+  },
+  {
+    "id": 87,
+    "name": "Greenfield University"
+  },
+  {
+    "id": 88,
+    "name": "Gregory University"
+  },
+  {
+    "id": 89,
+    "name": "Hallmark University"
+  },
+  {
+    "id": 90,
+    "name": "Havilla University"
+  },
+  {
+    "id": 91,
+    "name": "Hezekiah University"
+  },
+  {
+    "id": 92,
+    "name": "Ibrahim Badamasi Babangida University"
+  },
+  {
+    "id": 93,
+    "name": "Igbinedion University"
+  },
+  {
+    "id": 94,
+    "name": "Ignatius Ajuru University of Education"
+  },
+  {
+    "id": 95,
+    "name": "Imo State University"
+  },
+  {
+    "id": 96,
+    "name": "James Hope University"
+  },
+  {
+    "id": 97,
+    "name": "Joseph Ayo Babalola University"
+  },
+  {
+    "id": 98,
+    "name": "Kaduna State University"
+  },
+  {
+    "id": 99,
+    "name": "Karl-Kumm University"
+  },
+  {
+    "id": 100,
+    "name": "Kebbi State University of Science and Technology"
+  },
+  {
+    "id": 101,
+    "name": "Khadija University"
+  },
+  {
+    "id": 102,
+    "name": "Kings University"
+  },
+  {
+    "id": 103,
+    "name": "Koladaisi University"
+  },
+  {
+    "id": 104,
+    "name": "Kwara State University"
+  },
+  {
+    "id": 105,
+    "name": "Kwararafa University"
+  },
+  {
+    "id": 106,
+    "name": "Ladoke Akintola University of Technology"
+  },
+  {
+    "id": 107,
+    "name": "Lagos State University"
+  },
+  {
+    "id": 108,
+    "name": "Lagos State University of Education"
+  },
+  {
+    "id": 109,
+    "name": "Lagos State University of Science and Technology"
+  },
+  {
+    "id": 110,
+    "name": "Landmark University"
+  },
+  {
+    "id": 111,
+    "name": "Lead City University"
+  },
+  {
+    "id": 112,
+    "name": "Legacy University"
+  },
+  {
+    "id": 113,
+    "name": "Madonna University"
+  },
+  {
+    "id": 114,
+    "name": "Maranathan University"
+  },
+  {
+    "id": 115,
+    "name": "Maryam Abacha American University of Nigeria"
+  },
+  {
+    "id": 116,
+    "name": "McPherson University"
+  },
+  {
+    "id": 117,
+    "name": "Mewar University"
+  },
+  {
+    "id": 118,
+    "name": "Michael and Cecilia Ibru University"
+  },
+  {
+    "id": 119,
+    "name": "Michael Okpara University of Agriculture, Umudike"
+  },
+  {
+    "id": 120,
+    "name": "Modibbo Adama University, Yola"
+  },
+  {
+    "id": 121,
+    "name": "Mountain Top University"
+  },
+  {
+    "id": 122,
+    "name": "Mudiame University"
+  },
+  {
+    "id": 123,
+    "name": "Nasarawa State University"
+  },
+  {
+    "id": 124,
+    "name": "National Open University of Nigeria"
+  },
+  {
+    "id": 125,
+    "name": "Niger Delta University"
+  },
+  {
+    "id": 126,
+    "name": "Nile University of Nigeria"
+  },
+  {
+    "id": 127,
+    "name": "Nnamdi Azikiwe University"
+  },
+  {
+    "id": 128,
+    "name": "NOK University"
+  },
+  {
+    "id": 129,
+    "name": "Novena University"
+  },
+  {
+    "id": 130,
+    "name": "Obafemi Awolowo University"
+  },
+  {
+    "id": 131,
+    "name": "Obong University"
+  },
+  {
+    "id": 132,
+    "name": "Oduduwa University"
+  },
+  {
+    "id": 133,
+    "name": "Olabisi Onabanjo University"
+  },
+  {
+    "id": 134,
+    "name": "Olusegun Agagu University of Science and Technology"
+  },
+  {
+    "id": 135,
+    "name": "Osun State University"
+  },
+  {
+    "id": 136,
+    "name": "PAMO University of Medical Sciences"
+  },
+  {
+    "id": 137,
+    "name": "Pan-Atlantic University"
+  },
+  {
+    "id": 138,
+    "name": "Paul University"
+  },
+  {
+    "id": 139,
+    "name": "Peaceland University"
+  },
+  {
+    "id": 140,
+    "name": "PEN Resource University"
+  },
+  {
+    "id": 141,
+    "name": "Philomath University"
+  },
+  {
+    "id": 142,
+    "name": "Plateau State University"
+  },
+  {
+    "id": 143,
+    "name": "Precious Cornerstone University"
+  },
+  {
+    "id": 144,
+    "name": "Prince Abubakar Audu University"
+  },
+  {
+    "id": 145,
+    "name": "Redeemer's University Nigeria"
+  },
+  {
+    "id": 146,
+    "name": "Renaissance University"
+  },
+  {
+    "id": 147,
+    "name": "Rhema University"
+  },
+  {
+    "id": 148,
+    "name": "Ritman University"
+  },
+  {
+    "id": 149,
+    "name": "Rivers State University"
+  },
+  {
+    "id": 150,
+    "name": "Salem University"
+  },
+  {
+    "id": 151,
+    "name": "Samuel Adegboyega University"
+  },
+  {
+    "id": 152,
+    "name": "Skyline University Nigeria"
+  },
+  {
+    "id": 153,
+    "name": "Sokoto State University"
+  },
+  {
+    "id": 154,
+    "name": "Southwestern University, Nigeria"
+  },
+  {
+    "id": 155,
+    "name": "Spiritan University"
+  },
+  {
+    "id": 156,
+    "name": "Sule Lamido University"
+  },
+  {
+    "id": 157,
+    "name": "Summit University"
+  },
+  {
+    "id": 158,
+    "name": "Tai Solarin University of Education"
+  },
+  {
+    "id": 159,
+    "name": "Taraba State University"
+  },
+  {
+    "id": 160,
+    "name": "Thomas Adewunmi University"
+  },
+  {
+    "id": 161,
+    "name": "Topfaith University"
+  },
+  {
+    "id": 162,
+    "name": "Trinity University, Nigeria"
+  },
+  {
+    "id": 163,
+    "name": "Umaru Musa Yar'adua University"
+  },
+  {
+    "id": 164,
+    "name": "University of Abuja"
+  },
+  {
+    "id": 165,
+    "name": "University of Agriculture, Makurdi"
+  },
+  {
+    "id": 166,
+    "name": "University of Benin"
+  },
+  {
+    "id": 167,
+    "name": "University of Calabar"
+  },
+  {
+    "id": 168,
+    "name": "University of Cross River State"
+  },
+  {
+    "id": 169,
+    "name": "University of Delta, Agbor"
+  },
+  {
+    "id": 170,
+    "name": "University of Ibadan"
+  },
+  {
+    "id": 171,
+    "name": "University of Ilorin"
+  },
+  {
+    "id": 172,
+    "name": "University of Jos"
+  },
+  {
+    "id": 173,
+    "name": "University of Lagos"
+  },
+  {
+    "id": 174,
+    "name": "University of Maiduguri"
+  },
+  {
+    "id": 175,
+    "name": "University of Mkar"
+  },
+  {
+    "id": 176,
+    "name": "University of Nigeria, Nsukka"
+  },
+  {
+    "id": 177,
+    "name": "University of Offa"
+  },
+  {
+    "id": 178,
+    "name": "University of Port Harcourt"
+  },
+  {
+    "id": 179,
+    "name": "University of Uyo"
+  },
+  {
+    "id": 180,
+    "name": "Usmanu Danfodiyo University"
+  },
+  {
+    "id": 181,
+    "name": "Veritas University (Catholic University of Nigeria) Abuja"
+  },
+  {
+    "id": 182,
+    "name": "Wesley University"
+  },
+  {
+    "id": 183,
+    "name": "Western Delta University"
+  },
+  {
+    "id": 184,
+    "name": "Westland University"
+  },
+  {
+    "id": 185,
+    "name": "Yusuf Maitama Sule University Kano"
+  },
+  {
+    "id": 186,
+    "name": "Zamfara State University"
+  }
+]

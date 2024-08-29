@@ -1,0 +1,743 @@
+ [
+    {
+      "id": 1,
+      "name": "1-Con Universal Polytechnic, Osogbo"
+    },
+    {
+      "id": 2,
+      "name": "Abdu Gusau Polytechnic, Talata Mafara"
+    },
+    {
+      "id": 3,
+      "name": "Abia State Polytechnic, Aba"
+    },
+    {
+      "id": 4,
+      "name": "Abraham Adesanya Polytechnic, Ijebu-Igbo"
+    },
+    {
+      "id": 5,
+      "name": "Abubakar Tatari Ali Polytechnic, Bauchi"
+    },
+    {
+      "id": 6,
+      "name": "Adamawa State Polytechnic, Yola"
+    },
+    {
+      "id": 7,
+      "name": "Adeseun Ogundoyin Polytechnic, Eruwa"
+    },
+    {
+      "id": 8,
+      "name": "Air Force Institute of Technology (AFIT), Airforce Base, Kaduna"
+    },
+    {
+      "id": 9,
+      "name": "Ajayi Polytechnic, Ara-Ekiti"
+    },
+    {
+      "id": 10,
+      "name": "Akanu Ibiam Federal Polytechnic, Unwana-Afikpo"
+    },
+    {
+      "id": 11,
+      "name": "Akwa Ibom State College of Arts & Science, Nung Ukim"
+    },
+    {
+      "id": 12,
+      "name": "Akwa Ibom State Polytechnic, Ikot Osurua"
+    },
+    {
+      "id": 13,
+      "name": "Al-Hikma Polytechnic, Karu"
+    },
+    {
+      "id": 14,
+      "name": "Allover Central Polytechnic, Sango-Ota"
+    },
+    {
+      "id": 15,
+      "name": "Anambra State Polytechnic, Mgbakwu"
+    },
+    {
+      "id": 16,
+      "name": "Ashi Polytechnic, Anyin"
+    },
+    {
+      "id": 17,
+      "name": "Auchi Polytechnic, Auchi"
+    },
+    {
+      "id": 18,
+      "name": "Bayelsa State Polytechnic, Aleibiri, Bayelsa"
+    },
+    {
+      "id": 19,
+      "name": "Bellarks Polytechnic, Kwale"
+    },
+    {
+      "id": 20,
+      "name": "Benue State Polytechnic, Ugbokolo"
+    },
+    {
+      "id": 21,
+      "name": "Best Solution Polytechnic, Akure"
+    },
+    {
+      "id": 22,
+      "name": "Binyaminu Usman Polytechnic, Hadejia"
+    },
+    {
+      "id": 23,
+      "name": "Bolmor Polytechnic, Ibadan"
+    },
+    {
+      "id": 24,
+      "name": "Brainfill Polytechnic, Ikot-Ekpene"
+    },
+    {
+      "id": 25,
+      "name": "British Transatlantic Polytechnic, Akure"
+    },
+    {
+      "id": 26,
+      "name": "Calvary Polytechnic, Owo-Oyibu, Delta State"
+    },
+    {
+      "id": 27,
+      "name": "Citi Polytechnic, Abuja"
+    },
+    {
+      "id": 28,
+      "name": "Coastal Polytechnic, Badagry"
+    },
+    {
+      "id": 29,
+      "name": "College of Administration, Management And Technology, Potiskum"
+    },
+    {
+      "id": 30,
+      "name": "College of Agriculture, Science And Technology, Gujba"
+    },
+    {
+      "id": 31,
+      "name": "College of Agriculture, Science and Technology, Lafia"
+    },
+    {
+      "id": 32,
+      "name": "Covenant Polytechnic, Aba"
+    },
+    {
+      "id": 33,
+      "name": "Cross River Institute of Technology And Management, Ugep"
+    },
+    {
+      "id": 34,
+      "name": "Crown Polytechnic, Ado-Ekiti"
+    },
+    {
+      "id": 35,
+      "name": "D.S. Adegbenro ICT Polytechnic, Itori-Ewekoro"
+    },
+    {
+      "id": 36,
+      "name": "Delta State Polytechnic, Ogwashi-Uku"
+    },
+    {
+      "id": 37,
+      "name": "Delta State Polytechnic, Otefe-Oghara"
+    },
+    {
+      "id": 38,
+      "name": "Delta State Polytechnic, Ozoro, Delta State (Now Delta State University of Science And Technology)"
+    },
+    {
+      "id": 39,
+      "name": "Delta State School of Marine Technology, Burutu"
+    },
+    {
+      "id": 40,
+      "name": "Distinct Polytechnic, Ekosin"
+    },
+    {
+      "id": 41,
+      "name": "Dorben Polytechnic Bwari"
+    },
+    {
+      "id": 42,
+      "name": "Eastern Polytechnic, Port Harcourt"
+    },
+    {
+      "id": 43,
+      "name": "Edo State Polytechnic, Usen"
+    },
+    {
+      "id": 44,
+      "name": "Ekiti City Polytechnic Omuo-Ekiti"
+    },
+    {
+      "id": 45,
+      "name": "Ekiti State College of Agriculture And Technology, Isan-Ekiti"
+    },
+    {
+      "id": 46,
+      "name": "Enugu State Polytechnic, Iwollo"
+    },
+    {
+      "id": 47,
+      "name": "Enville Institute of Management and Technology, Ikeja"
+    },
+    {
+      "id": 48,
+      "name": "Federal Polytechnic Idah"
+    },
+    {
+      "id": 49,
+      "name": "Federal Polytechnic Ile-Oluji"
+    },
+    {
+      "id": 50,
+      "name": "Federal Polytechnic Isuochi"
+    },
+    {
+      "id": 51,
+      "name": "Federal Polytechnic Kabo"
+    },
+    {
+      "id": 52,
+      "name": "Federal Polytechnic Kaltungo"
+    },
+    {
+      "id": 53,
+      "name": "Federal Polytechnic Kaura-Namoda"
+    },
+    {
+      "id": 54,
+      "name": "Federal Polytechnic of Oil And Gas, Bonny"
+    },
+    {
+      "id": 55,
+      "name": "Federal Polytechnic, Ado-Ekiti"
+    },
+    {
+      "id": 56,
+      "name": "Federal Polytechnic, Ayede"
+    },
+    {
+      "id": 57,
+      "name": "Federal Polytechnic, Bali"
+    },
+    {
+      "id": 58,
+      "name": "Federal Polytechnic, Bauchi"
+    },
+    {
+      "id": 59,
+      "name": "Federal Polytechnic, Bida"
+    },
+    {
+      "id": 60,
+      "name": "Federal Polytechnic, Damaturu"
+    },
+    {
+      "id": 61,
+      "name": "Federal Polytechnic, Daura"
+    },
+    {
+      "id": 62,
+      "name": "Federal Polytechnic, Ede"
+    },
+    {
+      "id": 63,
+      "name": "Federal Polytechnic, Ekowe"
+    },
+    {
+      "id": 64,
+      "name": "Federal Polytechnic, Ilaro"
+    },
+    {
+      "id": 65,
+      "name": "Federal Polytechnic, Monguno"
+    },
+    {
+      "id": 66,
+      "name": "Federal Polytechnic, Mubi"
+    },
+    {
+      "id": 67,
+      "name": "Federal Polytechnic, Nasarawa"
+    },
+    {
+      "id": 68,
+      "name": "Federal Polytechnic, Neede"
+    },
+    {
+      "id": 69,
+      "name": "Federal Polytechnic, Nyak, Shendam"
+    },
+    {
+      "id": 70,
+      "name": "Federal Polytechnic, Offa"
+    },
+    {
+      "id": 71,
+      "name": "Federal Polytechnic, Ohodo"
+    },
+    {
+      "id": 72,
+      "name": "Federal Polytechnic, Oko"
+    },
+    {
+      "id": 73,
+      "name": "Federal Polytechnic, Orogun"
+    },
+    {
+      "id": 74,
+      "name": "Federal Polytechnic, Ugep"
+    },
+    {
+      "id": 75,
+      "name": "Federal Polytechnic, Ukana"
+    },
+    {
+      "id": 76,
+      "name": "Federal Polytechnic, Wannune"
+    },
+    {
+      "id": 77,
+      "name": "Fidei Polytechnic, Gboko"
+    },
+    {
+      "id": 78,
+      "name": "Foundation Polytechnic, Ikot Ekpene"
+    },
+    {
+      "id": 79,
+      "name": "Gateway Polytechnic, Saapade"
+    },
+    {
+      "id": 80,
+      "name": "Gboko Polytechnic, Gboko"
+    },
+    {
+      "id": 81,
+      "name": "Global Polytechnic, Benin"
+    },
+    {
+      "id": 82,
+      "name": "Gloryland Polytechnic, Anka"
+    },
+    {
+      "id": 83,
+      "name": "Gombe State Polytechnic, Bajoga"
+    },
+    {
+      "id": 84,
+      "name": "Grace Polytechnic, Surulere"
+    },
+    {
+      "id": 85,
+      "name": "Graceland Polytechnic, Offa"
+    },
+    {
+      "id": 86,
+      "name": "Grundtvig Polytechnic, Oba"
+    },
+    {
+      "id": 87,
+      "name": "Harry Pass Polytechnic, Gboko"
+    },
+    {
+      "id": 88,
+      "name": "Harvard Polytechnic, Ilorin"
+    },
+    {
+      "id": 89,
+      "name": "Hassan Usman Katsina Polytechnic, Katsina"
+    },
+    {
+      "id": 90,
+      "name": "Heritage Polytechnic, Eket"
+    },
+    {
+      "id": 91,
+      "name": "Highland Polytechnic, Ozuaha"
+    },
+    {
+      "id": 92,
+      "name": "Hussaini Adamu Federal Polytechnic, Kazaure"
+    },
+    {
+      "id": 93,
+      "name": "Ibadan City Polytechnic, Ibadan"
+    },
+    {
+      "id": 94,
+      "name": "Igbajo Polytechnic, Igbajo"
+    },
+    {
+      "id": 95,
+      "name": "IIco Polytechnic, Kaduna"
+    },
+    {
+      "id": 96,
+      "name": "Ikraam Polytechnic, Lagos"
+    },
+    {
+      "id": 97,
+      "name": "Imo State Polytechnic, Umuagwo"
+    },
+    {
+      "id": 98,
+      "name": "Institute of Management And Technology, Enugu"
+    },
+    {
+      "id": 99,
+      "name": "Interlink Polytechnic, Ijebu-Jesa"
+    },
+    {
+      "id": 100,
+      "name": "Irbid Polytechnic, Ijebu-Jesa"
+    },
+    {
+      "id": 101,
+      "name": "Isa Mustapha Agwai Polytechnic, Lafia"
+    },
+    {
+      "id": 102,
+      "name": "Jaba Institute of Technology, Kaduna"
+    },
+    {
+      "id": 103,
+      "name": "Jigawa State Polytechnic, Dutse"
+    },
+    {
+      "id": 104,
+      "name": "Kaduna Polytechnic, Kaduna"
+    },
+    {
+      "id": 105,
+      "name": "Kalac Christal Polytechnic, Ibadan"
+    },
+    {
+      "id": 106,
+      "name": "Kano State Polytechnic, Kano"
+    },
+    {
+      "id": 107,
+      "name": "Katsina State Institute of Technology And Management, Katsina"
+    },
+    {
+      "id": 108,
+      "name": "Kings Polytechnic, Ubiaja"
+    },
+    {
+      "id": 109,
+      "name": "Kingsfield Polytechnic, Ado-Ekiti"
+    },
+    {
+      "id": 110,
+      "name": "Kogi State Polytechnic, Lokoja"
+    },
+    {
+      "id": 111,
+      "name": "Kwara State Polytechnic, Ilorin"
+    },
+    {
+      "id": 112,
+      "name": "Lagos City Polytechnic, Ikeja"
+    },
+    {
+      "id": 113,
+      "name": "Lens Polytechnic, Offa"
+    },
+    {
+      "id": 114,
+      "name": "Light House Polytechnic, Edo"
+    },
+    {
+      "id": 115,
+      "name": "Marvic Polytechnic, Sapele"
+    },
+    {
+      "id": 116,
+      "name": "Mewar International Polytechnic, Nkpor"
+    },
+    {
+      "id": 117,
+      "name": "Moshood Abiola Polytechnic, Abeokuta"
+    },
+    {
+      "id": 118,
+      "name": "Nacabs Polytechnic, Akwanga"
+    },
+    {
+      "id": 119,
+      "name": "Nasarawa State Polytechnic, Lafia"
+    },
+    {
+      "id": 120,
+      "name": "Nasarawa State Polytechnic, Nasarawa"
+    },
+    {
+      "id": 121,
+      "name": "Niger State Polytechnic, Zungeru"
+    },
+    {
+      "id": 122,
+      "name": "Nigerian Institute of Journalism, Ogba"
+    },
+    {
+      "id": 123,
+      "name": "Nigerian Institute of Leather And Science Technology, Zaria"
+    },
+    {
+      "id": 124,
+      "name": "Nigerian Institute of Transport Technology, Zaria"
+    },
+    {
+      "id": 125,
+      "name": "Nigerian Navy School of Health Sciences, Offa"
+    },
+    {
+      "id": 126,
+      "name": "Nigerian Television Authority College, Jos"
+    },
+    {
+      "id": 127,
+      "name": "Nogak Polytechnic, Ikom"
+    },
+    {
+      "id": 128,
+      "name": "Northwest Polytechnic, Kano"
+    },
+    {
+      "id": 129,
+      "name": "Novena Polytechnic, Ogume"
+    },
+    {
+      "id": 130,
+      "name": "Ogun State Institute of Technology, Igbesa"
+    },
+    {
+      "id": 131,
+      "name": "Ogun State Polytechnic of Health and Allied Sciences, Ijebu-Ife"
+    },
+    {
+      "id": 132,
+      "name": "Olabisi Onabanjo University, Ago-Iwoye"
+    },
+    {
+      "id": 133,
+      "name": "Ondo City Polytechnic, Ondo"
+    },
+    {
+      "id": 134,
+      "name": "O�odua Polytechnic, Idimu"
+    },
+    {
+      "id": 135,
+      "name": "Osun State College of Technology, Esa-Oke"
+    },
+    {
+      "id": 136,
+      "name": "Osun State Polytechnic, Iree"
+    },
+    {
+      "id": 137,
+      "name": "Our Saviour Institute of Science And Technology, Enugu"
+    },
+    {
+      "id": 138,
+      "name": "Peace Institute of Management And Technology, Kwale"
+    },
+    {
+      "id": 139,
+      "name": "Petroleum Training Institute, Effurun"
+    },
+    {
+      "id": 140,
+      "name": "Plateau State Polytechnic, Barkin Ladi"
+    },
+    {
+      "id": 141,
+      "name": "Pogil College of Health Technology, Oke-Mosu"
+    },
+    {
+      "id": 142,
+      "name": "Port Harcourt Polytechnic, Port Harcourt"
+    },
+    {
+      "id": 143,
+      "name": "Prime Polytechnic, Jida-Bassa"
+    },
+    {
+      "id": 144,
+      "name": "Ramat Polytechnic, Maiduguri"
+    },
+    {
+      "id": 145,
+      "name": "Rivers State College of Arts And Science, Rumuola"
+    },
+    {
+      "id": 146,
+      "name": "Rivers State Polytechnic, Bori"
+    },
+    {
+      "id": 147,
+      "name": "Ronik Polytechnic, Ejigbo"
+    },
+    {
+      "id": 148,
+      "name": "Rufus Giwa Polytechnic, Owo"
+    },
+    {
+      "id": 149,
+      "name": "Sa�adatu Rimi College of Education, Kumbotso"
+    },
+    {
+      "id": 150,
+      "name": "Samaru College of Agriculture, Samaru"
+    },
+    {
+      "id": 151,
+      "name": "School of Biomedical Engineering, Lagos University Teaching Hospital, Idi-Araba"
+    },
+    {
+      "id": 152,
+      "name": "School of Forestry, Ibadan"
+    },
+    {
+      "id": 153,
+      "name": "Shehu Idris College of Health Sciences And Technology, Makarfi"
+    },
+    {
+      "id": 154,
+      "name": "Shaka Polytechnic, Benin City"
+    },
+    {
+      "id": 155,
+      "name": "SIRDA Institute of Maritime Studies And Research, Port Harcourt"
+    },
+    {
+      "id": 156,
+      "name": "State School of Nursing and Midwifery, Umuahia"
+    },
+    {
+      "id": 157,
+      "name": "State School of Nursing, Asaba"
+    },
+    {
+      "id": 158,
+      "name": "State School of Nursing, Benin City"
+    },
+    {
+      "id": 159,
+      "name": "State School of Nursing, Benue"
+    },
+    {
+      "id": 160,
+      "name": "State School of Nursing, Enugu"
+    },
+    {
+      "id": 161,
+      "name": "State School of Nursing, Gombe"
+    },
+    {
+      "id": 162,
+      "name": "State School of Nursing, Maiduguri"
+    },
+    {
+      "id": 163,
+      "name": "State School of Nursing, Sokoto"
+    },
+    {
+      "id": 164,
+      "name": "State School of Nursing, Yola"
+    },
+    {
+      "id": 165,
+      "name": "State School of Nursing, Zaria"
+    },
+    {
+      "id": 166,
+      "name": "St. Joseph�s College of Education, Ibaram"
+    },
+    {
+      "id": 167,
+      "name": "Sultan Abdurrahman School of Health Technology, Gwadabawa"
+    },
+    {
+      "id": 168,
+      "name": "Sundatia Postgraduate School of Education, Lagos"
+    },
+    {
+      "id": 169,
+      "name": "Sure Polytechnic, Ikare"
+    },
+    {
+      "id": 170,
+      "name": "Temple Gate Polytechnic, Aba"
+    },
+    {
+      "id": 171,
+      "name": "The Ibarapa Polytechnic, Eruwa"
+    },
+    {
+      "id": 172,
+      "name": "The Polytechnic, Ibadan"
+    },
+    {
+      "id": 173,
+      "name": "Tobim Polytechnic, Badagry"
+    },
+    {
+      "id": 174,
+      "name": "Topmost College of Education, Ipaja"
+    },
+    {
+      "id": 175,
+      "name": "Tower Polytechnic, Ibadan"
+    },
+    {
+      "id": 176,
+      "name": "Uma Ukpai Polytechnic, Asaga-Ohafia"
+    },
+    {
+      "id": 177,
+      "name": "Umar Ibn Ibrahim El-Kanemi College of Education, Bama"
+    },
+    {
+      "id": 178,
+      "name": "Uyo City Polytechnic, Uyo"
+    },
+    {
+      "id": 179,
+      "name": "Valley View Polytechnic, Ohafia"
+    },
+    {
+      "id": 180,
+      "name": "Waziri Umaru Federal Polytechnic, Birnin-Kebbi"
+    },
+    {
+      "id": 181,
+      "name": "Wolex Polytechnic, Iwo"
+    },
+    {
+      "id": 182,
+      "name": "Yaba College of Technology, Yaba"
+    },
+    {
+      "id": 183,
+      "name": "Yewa Central College of Education, Ilaro"
+    },
+    {
+      "id": 184,
+      "name": "Zamfara State College of Education, Maru"
+    },
+    {
+      "id": 185,
+      "name": "Zamfara State School of Nursing, Gusau"
+    }
+  ]
+
