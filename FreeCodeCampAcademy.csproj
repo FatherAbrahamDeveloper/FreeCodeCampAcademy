@@ -23,14 +23,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Assets\AppStore\" />
-	  <Folder Include="Assets\AViewConfigs\" />
-	  <Folder Include="Assets\Enums\" />
-	  <Folder Include="Assets\VComponents\" />
-	  <Folder Include="Assets\AppSession\" />
-	  <Folder Include="Assets\AppKits\" />
 	  <Folder Include="Models\Enums\" />
-	  <Folder Include="Models\RegVMs\" />
 	  <Folder Include="Views\Registration\Instructions\" />
 	  <Folder Include="Views\Registration\Modules\" />
 	  <Folder Include="Views\Shared\Components\GenderDDL\" />
