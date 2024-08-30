@@ -1,6 +1,7 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum InstitutionType
 {
-    public class InstitutionType
-    {
-    }
+    University = 0,
+    Polytechnic
 }

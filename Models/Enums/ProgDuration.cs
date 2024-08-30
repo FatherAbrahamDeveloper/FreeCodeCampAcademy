@@ -1,6 +1,8 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum ProgDuration
 {
-    public class ProgDuration
-    {
-    }
+    _3_Months = 1,
+    _6_Months,
+    _1_Year
 }

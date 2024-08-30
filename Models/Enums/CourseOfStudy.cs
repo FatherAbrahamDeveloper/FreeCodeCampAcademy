@@ -1,6 +1,10 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum CourseOfStudy
 {
-    public class CourseOfStudy
-    {
-    }
+    ComputerScience = 0,
+    Engineering,
+    Mathematics,
+    Physics,
+    Others
 }

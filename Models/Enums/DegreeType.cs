@@ -1,6 +1,8 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum DegreeType
 {
-    public class DegreeType
-    {
-    }
+    Bsc = 0,
+    OND,
+    HND
 }

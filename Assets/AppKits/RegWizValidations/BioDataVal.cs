@@ -1,6 +1,13 @@
-﻿namespace FreeCodeCampAcademy.Assets.AppKits.RegWizValidations
+﻿using FluentValidation;
+using FreeCodeCampAcademy.Models.RegVMs;
+
+namespace FreeCodeCampAcademy.Assets.AppKits.RegWizValidations;
+
+public class BioDataVal : AbstractValidator<BioDataVM>
 {
-    public class BioDataVal
+
+    public BioDataVal()
     {
+
     }
 }

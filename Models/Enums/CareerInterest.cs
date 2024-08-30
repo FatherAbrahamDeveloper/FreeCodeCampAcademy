@@ -1,6 +1,9 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum CareerInterest
 {
-    public class CareerInterest
-    {
-    }
+    Project_Management = 1,
+    Business_Analysis,
+    Software_Testing,
+    Software_Development
 }

@@ -1,6 +1,7 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum Faculty
 {
-    public class Faculty
-    {
-    }
+    Science = 0,
+    Engineering
 }

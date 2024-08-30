@@ -1,6 +1,12 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum MaritalStatus
 {
-    public class MaritalStatus
-    {
-    }
+    Single = 1,
+    Married,
+    Separated,
+    Divorced,
+    Widow,
+    Widower
 }
+

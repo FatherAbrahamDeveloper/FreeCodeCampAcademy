@@ -69,7 +69,7 @@ public class DirectoryHelpServ
         {
             UtilTools.LogE(ex.StackTrace, ex.Source, ex.Message);
             MessageInfo = "Process Error Unable to generate file name";
-            return;
+            return "";
         }
     }
 }

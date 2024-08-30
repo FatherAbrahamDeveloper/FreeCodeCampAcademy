@@ -1,6 +1,7 @@
-﻿namespace FreeCodeCampAcademy.Assets.VComponents
+﻿namespace FreeCodeCampAcademy.Assets.VComponents;
+
+public class GenderVCM
 {
-    public class GenderVCM
-    {
-    }
+    public List<NameValueObject> ItemList { get; set; } = default!;
+    public int Gender { get; set; }
 }

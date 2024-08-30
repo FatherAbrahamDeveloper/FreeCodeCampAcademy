@@ -1,6 +1,11 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum ModeOfReference
 {
-    public class ModeOfReference
-    {
-    }
+    SocialMedia = 0,
+    CompanyWebsite,
+    JobListings,
+    Referral,
+    Others
 }
+

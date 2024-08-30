@@ -1,6 +1,6 @@
-﻿namespace FreeCodeCampAcademy.Models.Enums
+﻿namespace FreeCodeCampAcademy.Models.Enums;
+
+public enum StateOfOrigin
 {
-    public class StateOfOrigin
-    {
-    }
+    Abia = 0
 }
