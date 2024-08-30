@@ -23,12 +23,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Models\Enums\" />
-	  <Folder Include="Views\Registration\Instructions\" />
-	  <Folder Include="Views\Registration\Modules\" />
-	  <Folder Include="Views\Shared\Components\GenderDDL\" />
-	  <Folder Include="Views\Shared\Layouts\" />
-	  <Folder Include="Views\Shared\ScriptRefs\" />
 	  <Folder Include="wwwroot\AppDocs\TempUploads\" />
 	  <Folder Include="wwwroot\js\toolkit-js\" />
 	  <Folder Include="wwwroot\js\toolkit-css\" />
