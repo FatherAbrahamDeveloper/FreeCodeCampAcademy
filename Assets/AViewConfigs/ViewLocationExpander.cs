@@ -1,6 +1,16 @@
-﻿namespace FreeCodeCampAcademy.Assets.AViewConfigs
+﻿using Microsoft.AspNetCore.Mvc.Razor;
+
+namespace FreeCodeCampAcademy;
+
+public class ViewLocationExpander: IViewLocationExpander
 {
-    public class ViewLocationExpander
+    public IEnumerable<string> ExpandViewLocations(ViewLocationExpanderContext context, IEnumerable<string> viewLocations)
     {
+        return AppViewConfig.CustomSharedDirectories().Union(viewLocations);
+    }
+
+    public void PopulateValues(ViewLocationExpanderContext context)
+    {
+        context.Values["customviewlocation"] = nameof(ViewLocationExpander);
     }
 }
