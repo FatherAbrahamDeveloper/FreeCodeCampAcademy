@@ -36,8 +36,7 @@ public class DirectoryHelpServ
             return "";
         }
     }
-
-
+        
     public string SaveFile(IFormFile formFile, string saveName)
     {
         try
@@ -47,15 +46,17 @@ public class DirectoryHelpServ
                 MessageInfo = "Uploaded file is either empty, null or invalid";
                 return "";
             }
+           
             if (!formFile.IsExtensionAllowed(["jpg", "jpeg", "png"], out var msg))
             {
-                MessageInfo = IsNullOrEmpty(msg) ? "Invalid File Format" : msg;
+                MessageInfo = string.IsNullOrEmpty(msg) ? "Invalid File Format" : msg;
+
                 return "";
             }
 
             var fileName = $"{saveName}{Path.GetExtension(formFile.FileName)}";
             var filePath = GetFilePath(fileName);
-            if (IsNullOrEmpty(filePath) || filePath.Length < 5)
+            if (string.IsNullOrEmpty(filePath) || filePath.Length < 5)
             {
                 return "";
             }

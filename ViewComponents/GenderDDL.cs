@@ -1,6 +1,4 @@
-﻿using FreeCodeCampAcademy.Assets.VComponents;
-using FreeCodeCampAcademy.Models.Enums;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace FreeCodeCampAcademy.ViewComponents;
 
@@ -13,7 +11,7 @@ public class GenderDDL : ViewComponent
 
     public async Task<IViewComponentResult> InvokeAsync (int selectedId)
     {
-        List<NameValueObject>  items await LoadItemsAsync();
+        List<NameValueObject>  items = await LoadItemsAsync();
         var retItem = new GenderVCM { ItemList = items, Gender = selectedId };
         return View(retItem);
     }

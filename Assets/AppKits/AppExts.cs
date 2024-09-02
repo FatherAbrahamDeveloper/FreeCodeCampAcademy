@@ -40,9 +40,11 @@ public static class AppExts
                     var attrs = memInfo[0].GetCustomAttributes(typeof(DescriptionAttribute), false);
                     if (attrs != null && attrs.Length > 0)
                     {
-
+                        var thisItem = (DescriptionAttribute)attrs[0] ?? new DescriptionAttribute();
+                        myObj.Name = thisItem.Description;
                     }
                 }
+                myCollector.Add(myObj);
             
             }
         }
@@ -53,10 +55,6 @@ public static class AppExts
 
             return null!;
         }
-
-
-
-
 
         return myCollector;
     }

@@ -10,7 +10,7 @@ public enum RegStage
 }
 public enum RegType
 {
-    SWIES = 1,
+    SIWES = 1,
     NYSC,
     Starter,
     Intern
