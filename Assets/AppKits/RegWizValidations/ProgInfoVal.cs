@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using FreeCodeCampAcademy.Models.Enums;
 using FreeCodeCampAcademy.Models.RegVMs;
 
 namespace FreeCodeCampAcademy.Assets.AppKits.RegWizValidations;
@@ -7,11 +8,10 @@ public class ProgInfoVal : AbstractValidator<ProgInfoVM>
 {
     public ProgInfoVal()
     {
-        //RuleFor(e => e.SiwesDuration).NotEmpty().WithMessage(UIValidationMsg.SIWES_DURATION_REQUIRED);
-        //RuleFor(e => e.SiwesStartDate).NotEmpty().WithMessage(UIValidationMsg.GENERALLY_REQUIRED);
-        //RuleFor(e => e.SiwesEndDate).NotEmpty().WithMessage(UIValidationMsg.GENERALLY_REQUIRED);
-        //RuleFor(e => e.AreaOfInterest).NotEmpty().MinimumLength(5).WithMessage(UIValidationMsg.AREA_OF_INTEREST_REQUIRED);
-        //RuleFor(e => e.SiwesLetterUpload).NotEmpty().WithMessage(UIValidationMsg.SIWES_UPLOAD_REQUIRED);
-        //RuleFor(e => e.CVUpload).NotEmpty().WithMessage(UIValidationMsg.CV_UPLOAD_REQUIRED);
+        RuleFor(e => e.CareerInterest).Must(CareerInterest => CareerInterest > 0).WithMessage(UIValidationMsg.CAREER_INTEREST_REQUIRED);
+        RuleFor(e => e.ProgDuration).Must(ProgDuration => ProgDuration > 0).WithMessage(UIValidationMsg.PROGRAM_DURATION_REQUIRED);
+        RuleFor(e => e.StartDate).NotEmpty().WithMessage(UIValidationMsg.PROGRAM_START_DATE_REQUIRED).Length(10, 10);
+        RuleFor(e => e.EndDate).NotEmpty().WithMessage(UIValidationMsg.PROGRAM_END_DATE_REQUIRED).Length(10, 10);
+        RuleFor(e => e.CareerObjective).NotEmpty().WithMessage(UIValidationMsg.CAREER_OBJECTIVE_REQUIRED).Length(10, 300);
     }
 }

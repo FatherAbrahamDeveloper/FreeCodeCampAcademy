@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using FreeCodeCampAcademy.Models.Enums;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FreeCodeCampAcademy.ViewComponents;
 

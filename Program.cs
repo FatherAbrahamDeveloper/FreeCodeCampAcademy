@@ -2,16 +2,21 @@
 
 using FluentValidation;
 using FreeCodeCampAcademy;
-using FreeCodeCampAcademy.Assets.AppSession.Core;
+using FreeCodeCampAcademy.APIService;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.AspNetCore.Session;
 
 var builder = WebApplication.CreateBuilder(args);
-var assembly = typeof(Program).Assembly;
+var configuration = builder.Configuration;
+builder.Configuration.SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("FreeCodeCampAcadServSettings.json", optional: false, reloadOnChange: true);
 
-// Add services to the container.
+
+builder.ConfigureServiceOptions();
+var assembly = typeof(Program).Assembly;
 builder.Services.AddValidatorsFromAssembly(assembly);
 builder.Services.AddXPCaching();
+builder.Services.AddAPIServices();
+
 builder.Services.AddControllersWithViews().AddJsonOptions(opts => opts.JsonSerializerOptions.PropertyNamingPolicy = null).AddRazorOptions(opt =>
 {
 opt.ViewLocationExpanders.Add(new ViewLocationExpander());

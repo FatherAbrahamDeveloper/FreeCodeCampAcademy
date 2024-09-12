@@ -1,0 +1,32 @@
+{
+
+  "CacheServiceSettings": {
+    "CacheDuration": 365,
+    "ShortDuration": 24,
+    "ServerUrl": "",
+    "ApiKey": ""
+  },
+
+  "GLookupSettings": {
+    "BaseUrl": "http://197.255.51.105:8050/",
+    "ApiKey": "lHLSmqSPOh+hcwJY5EZ5imVtzLf3pXRkDWCWGErkjokf+Yp0uAmUHRif9bN1rzqt4FCGYghZvkhhThTL+9VK/Q=="
+  },
+
+  "RegServiceSettings": {
+    "BaseUrl": "http://197.255.51.105:8050/",
+    "ApiKey": "lHLSmqSPOh+hcwJY5EZ5imVtzLf3pXRkDWCWGErkjokf+Yp0uAmUHRif9bN1rzqt4FCGYghZvkhhThTL+9VK/Q=="
+  },
+
+  "SerilogServiceSettings": {
+    //Activations
+    "EnableConsole": false,
+    "EnableFile": true,
+    "EnableSeq": true,
+    "LogEventLevel": 2,
+
+    //Supplies
+    "FilePath": "\\AppLogging\\Log\\Logfile.txt",
+    "SeqApiKey": "b7eBmLpwYlOXKxFfNvUm",
+    "SeqURL": "http://197.255.51.104:5341/"
+  }
+}
