@@ -8,7 +8,7 @@ public class ProgInfoVM
 {
     public string PhotoPath { get; set; }   = string.Empty;
     public ProgDuration ProgDuration { get; set; }
-    public RegType RegType { get; set; }
+    public RegType ProgType { get; set; }
     public string StartDate { get; set; } = string.Empty;
     public string EndDate { get; set; } = string.Empty;
     public CareerInterest CareerInterest { get; set; }
