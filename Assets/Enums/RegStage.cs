@@ -3,10 +3,11 @@
 public enum RegStage
 {
     BioData = 1,
-    Contact = 2,
-    Education = 3,
-    ProgramInfo = 4,
-    GeneralInfo = 5
+    Contact,
+    Education,
+    ProgramInfo,
+    GeneralInfo,
+    Submission
 }
 public enum RegType
 {

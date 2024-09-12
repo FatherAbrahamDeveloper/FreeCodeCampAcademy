@@ -7,7 +7,9 @@ public class OtherInfoVal : AbstractValidator<OtherInfoVM>
 {
     public OtherInfoVal()
     {
-        RuleFor(e => e.ModeOfReference).NotEmpty().WithMessage(UIValidationMsg.GENERALLY_REQUIRED);
-        RuleFor(e => e.WhyInterested).NotEmpty().WithMessage(UIValidationMsg.GENERALLY_REQUIRED);
+        RuleFor(e => e.ModeOfReference).Must(ModeOfReference => ModeOfReference > 0)
+           .WithMessage(UIValidationMsg.REFER_MODE_REQUIRED);
+        RuleFor(e => e.WhyInterested).NotEmpty().Length(10, 300).WithMessage(UIValidationMsg.REASON_REQUIRED);
+        RuleFor(e => e.Expectations).NotEmpty().Length(10, 300).WithMessage(UIValidationMsg.EXPECTATION_REQUIRED);
     }
 }

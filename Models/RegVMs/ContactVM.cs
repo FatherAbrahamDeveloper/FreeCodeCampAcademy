@@ -14,4 +14,4 @@ public class ContactVM
     public int StateId { get; set; }
 }
 
-}
+
